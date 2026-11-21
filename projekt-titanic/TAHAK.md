@@ -14,7 +14,7 @@ with open(SOUBOR, encoding="utf-8") as f:
     radky = list(csv.DictReader(f))
 
 print(radky[0]["Name"])
-```
+
 
 | Zápis | Co znamená |
 | --- | --- |

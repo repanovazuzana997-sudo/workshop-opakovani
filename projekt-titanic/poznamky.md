@@ -2,7 +2,7 @@
 
 ## Krok 2 – Co v datech chybí?
 
-Čeho jsem si všimla:
+Čeho jsem si všimla: jsou dvě čárky vedle sebe, tzn. chybějící hodnota. co znamená /
 
 ## Krok 3 – Kdo byl na palubě?
 
